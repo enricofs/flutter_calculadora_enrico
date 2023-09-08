@@ -1,16 +1,5 @@
 # flutter_calculadora_enrico
 
-A new Flutter project.
+![print-calc1](https://github.com/enricofs/flutter_calculadora_enrico/assets/73853747/34dea407-af54-4e62-8140-54ec6a16a096)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![print-calc](https://github.com/enricofs/flutter_calculadora_enrico/assets/73853747/0e1b8767-0d39-4dd2-b915-96081256c599)
